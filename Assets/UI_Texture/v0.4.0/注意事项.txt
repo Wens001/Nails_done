@@ -1,0 +1,4 @@
+每日签到界面-daily-透明度调整90%
+离线奖励界面-welcomeback-透明度调整90%
+level图鉴-间距调整-离边界208像素
+             -normal改成casual
